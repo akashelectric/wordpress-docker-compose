@@ -6,7 +6,7 @@ Docker compose file including uploads.ini file for seamless Wordpress installati
 Step 1: Clone the repo
 
 ```
-git clone https://github.com/trulymittal/wordpress-docker-compose.git
+git clone https://github.com/akashelectric/wordpress-docker-compose.git
 ```
 
 Step 2: cd into the repo
@@ -36,8 +36,4 @@ docker-compose down --volumes
 
 ## Authors
 
-- [**Truly Mittal**](https://trulymittal.com)
-
-## License
-
-This project is licensed under the MIT License.
+- [**AKASH VERMA**]
